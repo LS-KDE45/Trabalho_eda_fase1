@@ -1,0 +1,9 @@
+﻿  funcões.c
+C:\Users\luisq\OneDrive\Ambiente de Trabalho\estrutura de dados\Teste_trabalhofase1\funcões.c(20,23): warning C4013: 'malloc' indefinido; assumindo extern retornando int
+C:\Users\luisq\OneDrive\Ambiente de Trabalho\estrutura de dados\Teste_trabalhofase1\funcões.c(260,25): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\luisq\OneDrive\Ambiente de Trabalho\estrutura de dados\Teste_trabalhofase1\funcões.c(276,7): warning C4013: 'free' indefinido; assumindo extern retornando int
+C:\Users\luisq\OneDrive\Ambiente de Trabalho\estrutura de dados\Teste_trabalhofase1\funcões.c(394,52): warning C4047: 'return': 'job *' difere em níveis de indireção de 'int'
+C:\Users\luisq\OneDrive\Ambiente de Trabalho\estrutura de dados\Teste_trabalhofase1\funcões.c(391,1): warning C4047: 'inicializando': 'char' difere em níveis de indireção de 'void *'
+  programa.c
+  Gerando Código...
+  Teste_trabalhofase1.vcxproj -> C:\Users\luisq\OneDrive\Ambiente de Trabalho\estrutura de dados\Teste_trabalhofase1\Debug\Teste_trabalhofase1.exe
